@@ -1,0 +1,44 @@
+body {
+    font-family: sans-
+    }
+    
+header{
+
+background-color:#00008B ;
+color: antiquewhite;
+border-radius:20px;
+
+}
+h1{
+background-color: darkcyan;
+color:chocolate;
+border-radius: 20px;
+}
+footer{
+background-color: mediumseagreen;
+color: navy;
+
+}
+nav a{
+
+   margin:20px;
+   font-size:15px;
+   padding: 5px;
+   text-decoration: salmon;
+   color: turquoise;
+   border: 5px solid #00008B;
+   border-radius: 10px;
+   background-color: green;
+
+   }
+   nav{
+   margin: 20px;
+   padding: 15px;
+   }
+
+.bddb{
+
+background-color: aliceblue;
+
+
+}
